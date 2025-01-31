@@ -3,7 +3,7 @@
 ## Overview
 Lambda (LAnguage Model Bacteriophage Detection Assessment) is a benchmark for testing genomic language models in bacterial domain tasks. This guide will help you set up the required datasets.
 
-## Note: The datasets and pretrained models are available on huggingface but we were unable to include them in this repository because of space limitations. We also hosted them at Zenodo, but they are still under review so we are unable to send a link at this time. We also attempted to load them onto Github Anonymous, but they were too large. We are sorry for the inconvenience.
+### Note: The datasets and pretrained models are available on huggingface but we were unable to include them in this repository because of space limitations. We also hosted them at Zenodo, but they are still under review so we are unable to send a link at this time. We also attempted to load them onto Github Anonymous, but they were too large. We are sorry for the inconvenience.
 
 
 ## Installation Steps
