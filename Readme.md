@@ -3,11 +3,8 @@
 ## Overview
 Lambda (LAnguage Model Bacteriophage Detection Assessment) is a benchmark for testing genomic language models in bacterial domain tasks. This guide will help you set up the required datasets.
 
-## Prerequisites
-- Unix-like operating system (Linux/macOS)
-- Command line access
-- Basic understanding of terminal commands
-- Sufficient disk space for the extracted files
+## Note: The datasets and pretrained models are available on huggingface but we were unable to include them in this repository because of space limitations. We also hosted them at Zenodo, but they are still under review so we are unable to send a link at this time. We also attempted to load them onto Github Anonymous, but they were too large. We are sorry for the inconvenience.
+
 
 ## Installation Steps
 
@@ -24,39 +21,33 @@ cd data
 
 3. Extract the archive files:
 
-For BED.tar:
 ```bash
 tar -xf BED.tar
-```
-
-For BinaryClassification.tar.gz:
-```bash
 tar -xzf BinaryClassification.tar.gz
-```
-
-For FASTA.tar:
-```bash
 tar -xf FASTA.tar
 ```
 
-## Directory Structure
 After extraction, your directory structure should look like this:
 ```
 data/
 ├── BED/
 ├── BinaryClassification/
 └── FASTA/
-```
-# Prepare Pretrained Bacterial Models
 
-## Directory Structure
-Before starting, ensure you have the following files:
+4. Prepare the genomes for processing
+
+```bash
+cd ..
+mkdir CSV
+python preprocessing/bed_to_csv.py --fasta_dir data/FASTA --fasta_dir BED --output_dir CSV 
 ```
-pretrained_models/
-├── caduceus4L_B.tar.gz
-├── caduceus8L_B.tar.gz
-└── Hyena_DNA_B.tar.gz
-```
+# Task 1: Binary Classification 
+
+The directory data/BinaryClassification has three files in it train.csv, test.csv, dev.csv.  Each file has two columns, sequence,label.  
+
+You can substitute these input files in any gLM binary classification pipeline.
+
+# Pretrained Bacterial Models
 
 ## Setup Instructions
 
@@ -91,7 +82,6 @@ tar -xzf Hyena_DNA_B.tar.gz
 cp -r * /path/to/caduceus/pretrained/
 ```
 
-## Verification
 After completing these steps, verify your directory structure looks like this:
 ```
 caduceus/
@@ -101,4 +91,23 @@ caduceus/
 │   └── Hyena_DNA_B/
 └── ... (other caduceus files)
 ```
+
+You can then use these models in the same way described in the Caduceus github, just provide the correct paths to config.json and weights.ckpt.
+
+## Task 2: Prophage Detection 
+
+You will find example scripts for processing the test genome CSV files in the inference folder
+
+## Signal Extraction
+
+After inference you will need to run the signal extraction 
+
+1. First compile the C++ scripts
+```bash
+g++ -std=c++17 process_csv.cpp -o process_csv -lstdc++fs
+g++ -std=c++17 prophage_signal_processor.cpp -o prophage_signal_processor -lstdc++fs -pthread
+```
+
+
+
 

@@ -1,0 +1,388 @@
+NCBI Id,Assembly,start,end,Organism Name,Published in
+NC_000962,GCF_000195955.2,2970551,2981576,Mycobacterium tuberculosis H37Rv,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000962,GCF_000195955.2,1780643,1788505,Mycobacterium tuberculosis H37Rv,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000913,NC_000913,262552,296320,Escherichia coli K12,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000913,NC_000913,2464567,2475651,Escherichia coli K12,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000913,NC_000913,2754181,2775804,Escherichia coli K12,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000913,NC_000913,564038,584856,Escherichia coli K12,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000913,NC_000913,1410024,1432281,Escherichia coli K12,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000913,NC_000913,1196090,1210402,Escherichia coli K12,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000913,NC_000913,1631063,1650732,Escherichia coli K12,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000913,NC_000913,2556793,2563354,Escherichia coli K12,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000913,NC_000913,2064329,2076158,Escherichia coli K12,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003112,GCF_000008805.1,1001560,1005455,Neisseria meningitidis MC58,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003112,GCF_000008805.1,1099910,1133980,Neisseria meningitidis MC58,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002947,GCF_000007565.2,4372649,4427414,Pseudomonas putida KT2440,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002947,GCF_000007565.2,4417270,4440874,Pseudomonas putida KT2440,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002947,GCF_000007565.2,2586633,2625819,Pseudomonas putida KT2440,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002947,GCF_000007565.2,3418567,3447235,Pseudomonas putida KT2440,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002947,GCF_000007565.2,1738082,1774805,Pseudomonas putida KT2440,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003902,GCF_000007145.1,2435595,2441676,Xanthomonas campestris pv. campestris str. ATCC 33913,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003902,GCF_000007145.1,3523234,3560198,Xanthomonas campestris pv. campestris str. ATCC 33913,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003902,GCF_000007145.1,2441850,2447920,Xanthomonas campestris pv. campestris str. ATCC 33913,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003902,GCF_000007145.1,5016862,5025976,Xanthomonas campestris pv. campestris str. ATCC 33913,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002935,GCF_000195815.1,776521,790960,Corynebacterium diphtheriae NCTC 13129,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002935,GCF_000195815.1,2216802,2297805,Corynebacterium diphtheriae NCTC 13129,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002935,GCF_000195815.1,1866723,1880855,Corynebacterium diphtheriae NCTC 13129,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002935,GCF_000195815.1,154365,190992,Corynebacterium diphtheriae NCTC 13129,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003198,GCF_000195995.1,1888674,1933558,Salmonella enterica subsp. enterica serovar Typhi str. CT18,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003198,GCF_000195995.1,3515470,3548975,Salmonella enterica subsp. enterica serovar Typhi str. CT18,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003198,GCF_000195995.1,1538899,1572919,Salmonella enterica subsp. enterica serovar Typhi str. CT18,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003198,GCF_000195995.1,4473973,4507270,Salmonella enterica subsp. enterica serovar Typhi str. CT18,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003198,GCF_000195995.1,1008747,1052755,Salmonella enterica subsp. enterica serovar Typhi str. CT18,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003198,GCF_000195995.1,4683853,4694545,Salmonella enterica subsp. enterica serovar Typhi str. CT18,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003198,GCF_000195995.1,2760475,2768771,Salmonella enterica subsp. enterica serovar Typhi str. CT18,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003198,GCF_000195995.1,1781177,1789457,Salmonella enterica subsp. enterica serovar Typhi str. CT18,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,2227585,2235565,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,238841,251370,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,899706,918668,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,311291,328079,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,2683559,2698944,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,1919854,1942697,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,2049694,2066397,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,1175319,1188408,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,1395280,1421884,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,1401123,1425759,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,696659,747734,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,2950035,2958559,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,3051242,3094081,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004337,GCF_000006925.2,1574398,1583708,Shigella flexneri 2a str. 301,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002967,GCF_000008185.1,1169950,1202411,Treponema denticola ATCC 35405,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002737,GCF_000006785.2,527569,571887,Streptococcus pyogenes M1 GAS,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002737,GCF_000006785.2,1773458,1782822,Streptococcus pyogenes M1 GAS,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002737,GCF_000006785.2,778642,820599,Streptococcus pyogenes M1 GAS,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002737,GCF_000006785.2,1192854,1222549,Streptococcus pyogenes M1 GAS,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003030,GCF_000008765.1,2024020,2074254,Clostridium acetobutylicum ATCC 824,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003030,GCF_000008765.1,1277643,1346789,Clostridium acetobutylicum ATCC 824,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003116,GCF_000009105.1,1768546,1807515,Neisseria meningitidis Z2491,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003116,GCF_000009105.1,1131796,1138899,Neisseria meningitidis Z2491,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003116,GCF_000009105.1,1207416,1236260,Neisseria meningitidis Z2491,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004431,GCF_000007445.1,1169792,1228729,Escherichia coli CFT073,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004431,GCF_000007445.1,909332,942273,Escherichia coli CFT073,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004431,GCF_000007445.1,3019963,3065315,Escherichia coli CFT073,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004431,GCF_000007445.1,4923133,4929628,Escherichia coli CFT073,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004431,GCF_000007445.1,1397370,1452231,Escherichia coli CFT073,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004431,GCF_000007445.1,1378215,1388952,Escherichia coli CFT073,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004431,GCF_000007445.1,1327053,1372820,Escherichia coli CFT073,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004116,GCF_000007265.1,1833318,1867117,Streptococcus agalactiae 2603V/R,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004116,GCF_000007265.1,558254,599207,Streptococcus agalactiae 2603V/R,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002745,GCF_000009645.1,2005924,2049520,Staphylococcus aureus subsp. aureus N315,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002745,GCF_000009645.1,1859152,1881615,Staphylococcus aureus subsp. aureus N315,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002662,GCF_000006865.1,1036642,1071558,Lactococcus lactis subsp. lactis Il1403,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002662,GCF_000006865.1,502723,513742,Lactococcus lactis subsp. lactis Il1403,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002662,GCF_000006865.1,35516,49727,Lactococcus lactis subsp. lactis Il1403,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002662,GCF_000006865.1,1414112,1456949,Lactococcus lactis subsp. lactis Il1403,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002662,GCF_000006865.1,2013685,2025635,Lactococcus lactis subsp. lactis Il1403,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002662,GCF_000006865.1,447236,483244,Lactococcus lactis subsp. lactis Il1403,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002516,GCF_000006765.1,689236,702529,Pseudomonas aeruginosa PAO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002516,GCF_000006765.1,672777,689221,Pseudomonas aeruginosa PAO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005085,GCF_000007705.1,2303969,2334742,Chromobacterium violaceum ATCC 12472,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005085,GCF_000007705.1,353384,372826,Chromobacterium violaceum ATCC 12472,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005085,GCF_000007705.1,428568,450397,Chromobacterium violaceum ATCC 12472,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000964,NC_000964,2151284,2285604,Bacillus subtilis subsp. subtilis str. 168,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000964,NC_000964,2055488,2064044,Bacillus subtilis subsp. subtilis str. 168,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000964,NC_000964,2666111,2700582,Bacillus subtilis subsp. subtilis str. 168,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000964,NC_000964,1320640,1347494,Bacillus subtilis subsp. subtilis str. 168,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005362,GCF_000008065.1,327894,367791,Lactobacillus johnsonii NCC 533,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005362,GCF_000008065.1,1292553,1330377,Lactobacillus johnsonii NCC 533,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003485,GCF_000007285.1,293882,332714,Streptococcus pyogenes MGAS8232,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003485,GCF_000007285.1,1451844,1493373,Streptococcus pyogenes MGAS8232,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003485,GCF_000007285.1,1041280,1087739,Streptococcus pyogenes MGAS8232,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003485,GCF_000007285.1,578093,618765,Streptococcus pyogenes MGAS8232,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003485,GCF_000007285.1,1206360,1241416,Streptococcus pyogenes MGAS8232,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003366,GCF_000009685.1,1298199,1327800,Clostridium perfringens str. 13,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003923,GCF_000011265.1,2046605,2088749,Staphylococcus aureus subsp. aureus MW2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003923,GCF_000011265.1,1529381,1573005,Staphylococcus aureus subsp. aureus MW2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,2552735,2573940,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,4190163,4242791,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,4340686,4389134,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,5175988,5190589,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,2088101,2101272,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,2800483,2848507,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,3774756,3892173,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,5201181,5228815,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,4006891,4056690,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,1267570,1617919,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,2331853,2466741,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,2955621,2991661,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,3409531,3537385,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,3512834,3535879,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,10251,29999,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,132320,180394,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,1785333,1795520,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,1983763,1993171,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,2035298,2041677,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_005126,GCF_000196155.1,5559641,5566514,Photorhabdus luminescens subsp. laumondii TTO1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004631,GCF_000007545.1,4458029,4490856,Salmonella enterica subsp. enterica serovar Typhi Ty2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004631,GCF_000007545.1,4671630,4678034,Salmonella enterica subsp. enterica serovar Typhi Ty2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004631,GCF_000007545.1,1928058,1972330,Salmonella enterica subsp. enterica serovar Typhi Ty2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004631,GCF_000007545.1,2735202,2754628,Salmonella enterica subsp. enterica serovar Typhi Ty2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004631,GCF_000007545.1,1314607,1441766,Salmonella enterica subsp. enterica serovar Typhi Ty2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004631,GCF_000007545.1,3501128,3538076,Salmonella enterica subsp. enterica serovar Typhi Ty2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003143,GCF_000009065.1,964013,971311,Yersinia pestis CO92,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003143,GCF_000009065.1,1392489,1416524,Yersinia pestis CO92,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003143,GCF_000009065.1,1233128,1243405,Yersinia pestis CO92,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003143,GCF_000009065.1,2554373,2563203,Yersinia pestis CO92,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003143,GCF_000009065.1,2363019,2413098,Yersinia pestis CO92,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003143,GCF_000009065.1,2115626,2122603,Yersinia pestis CO92,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004668,GCF_000007785.1,1398097,1443843,Enterococcus faecalis V583,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004668,GCF_000007785.1,2817287,2829554,Enterococcus faecalis V583,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004668,GCF_000007785.1,2004910,2048146,Enterococcus faecalis V583,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004668,GCF_000007785.1,2023234,2049919,Enterococcus faecalis V583,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004668,GCF_000007785.1,1245337,1259965,Enterococcus faecalis V583,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004668,GCF_000007785.1,2700666,2736808,Enterococcus faecalis V583,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004668,GCF_000007785.1,1923000,1962485,Enterococcus faecalis V583,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004668,GCF_000007785.1,289354,326185,Enterococcus faecalis V583,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004668,GCF_000007785.1,551891,566251,Enterococcus faecalis V583,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003295,GCF_000009125.1,2084602,2124346,Ralstonia solanacearum GMI1000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003295,GCF_000009125.1,1003644,1018473,Ralstonia solanacearum GMI1000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003295,GCF_000009125.1,1781995,1823953,Ralstonia solanacearum GMI1000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003295,GCF_000009125.1,2049204,2056036,Ralstonia solanacearum GMI1000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003295,GCF_000009125.1,3486521,3505550,Ralstonia solanacearum GMI1000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003295,GCF_000009125.1,2684129,2695788,Ralstonia solanacearum GMI1000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003295,GCF_000009125.1,1591303,1598986,Ralstonia solanacearum GMI1000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003295,GCF_000009125.1,879632,939437,Ralstonia solanacearum GMI1000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003155,GCF_000009765.2,6670511,6721444,Streptomyces avermitilis MA-4680,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004347,GCF_000146165.2,2788307,2822836,Shewanella oneidensis MR-1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004347,GCF_000146165.2,669361,703908,Shewanella oneidensis MR-1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004347,GCF_000146165.2,3075409,3126249,Shewanella oneidensis MR-1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,238511,254700,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,1177837,1191596,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,1614219,1620622,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,2021895,2044342,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,313843,327223,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,1912634,1921793,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,710297,746123,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,1901037,1921793,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,1893682,1923605,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,897790,930670,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,915755,943797,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,2678519,2687517,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,1100131,1105919,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,692891,709118,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,2201408,2220775,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,2331690,2347222,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,2594187,2620410,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004741,GCF_000007405.1,4081357,4087597,Shigella flexneri 2a str. 2457T,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004088,GCF_000006645.1,2693615,2700576,Yersinia pestis KIM,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004088,GCF_000006645.1,3389410,3399754,Yersinia pestis KIM,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004088,GCF_000006645.1,3595228,3601343,Yersinia pestis KIM,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004088,GCF_000006645.1,2417129,2456467,Yersinia pestis KIM,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004088,GCF_000006645.1,3237524,3255252,Yersinia pestis KIM,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004556,GCF_000007245.1,2005731,2020421,Xylella fastidiosa Temecula1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004556,GCF_000007245.1,1847752,1855582,Xylella fastidiosa Temecula1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004556,GCF_000007245.1,1161143,1217907,Xylella fastidiosa Temecula1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004556,GCF_000007245.1,1170407,1224505,Xylella fastidiosa Temecula1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004556,GCF_000007245.1,1117952,1142627,Xylella fastidiosa Temecula1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004556,GCF_000007245.1,454017,467611,Xylella fastidiosa Temecula1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004556,GCF_000007245.1,1288547,1392763,Xylella fastidiosa Temecula1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004556,GCF_000007245.1,1362504,1398130,Xylella fastidiosa Temecula1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004556,GCF_000007245.1,1550281,1556188,Xylella fastidiosa Temecula1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003997,GCF_000007845.1,447387,484339,Bacillus anthracis str. Ames,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003997,GCF_000007845.1,3745958,3791042,Bacillus anthracis str. Ames,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003997,GCF_000007845.1,3456916,3505685,Bacillus anthracis str. Ames,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003997,GCF_000007845.1,3488693,3522745,Bacillus anthracis str. Ames,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003997,GCF_000007845.1,4842149,4858240,Bacillus anthracis str. Ames,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004578,GCF_000007805.1,4515380,4530373,Pseudomonas syringae pv. tomato str. DC3000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004578,GCF_000007805.1,4528890,4566113,Pseudomonas syringae pv. tomato str. DC3000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004578,GCF_000007805.1,625118,647483,Pseudomonas syringae pv. tomato str. DC3000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004578,GCF_000007805.1,2252628,2264999,Pseudomonas syringae pv. tomato str. DC3000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004578,GCF_000007805.1,3824683,3865352,Pseudomonas syringae pv. tomato str. DC3000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004578,GCF_000007805.1,4543843,4563495,Pseudomonas syringae pv. tomato str. DC3000,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004567,GCF_000203855.3,590128,633804,Lactobacillus plantarum WCFS1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004567,GCF_000203855.3,2161732,2203820,Lactobacillus plantarum WCFS1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004567,GCF_000203855.3,2188411,2232769,Lactobacillus plantarum WCFS1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004567,GCF_000203855.3,2998563,3007280,Lactobacillus plantarum WCFS1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004567,GCF_000203855.3,2204171,2218342,Lactobacillus plantarum WCFS1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002488,GCF_000006725.1,489619,530138,Xylella fastidiosa 9a5c,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002488,GCF_000006725.1,2008224,2022372,Xylella fastidiosa 9a5c,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002488,GCF_000006725.1,649115,690375,Xylella fastidiosa 9a5c,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002488,GCF_000006725.1,2361812,2404268,Xylella fastidiosa 9a5c,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002488,GCF_000006725.1,2177071,2183135,Xylella fastidiosa 9a5c,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002488,GCF_000006725.1,1514347,1541075,Xylella fastidiosa 9a5c,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002488,GCF_000006725.1,1585980,1631056,Xylella fastidiosa 9a5c,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002678,GCF_000009625.1,6975631,7011591,Mesorhizobium loti MAFF303099,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002678,GCF_000009625.1,313639,359457,Mesorhizobium loti MAFF303099,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002678,GCF_000009625.1,6587513,6595756,Mesorhizobium loti MAFF303099,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002678,GCF_000009625.1,4868224,4896691,Mesorhizobium loti MAFF303099,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003210,GCF_000196035.1,2361897,2400243,Listeria monocytogenes EGD-e,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003210,GCF_000196035.1,120654,131380,Listeria monocytogenes EGD-e,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,2158314,2203914,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,300072,310238,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,1161297,1210641,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,1180157,1209126,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,5041093,5079469,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,1245217,1308182,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,1921472,1970014,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,2896151,2943747,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,3480256,3505039,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,310806,324405,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,892240,929292,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,1594751,1609184,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,1541626,1589842,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,1586046,1621990,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,3193144,3200085,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,2593128,2612026,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,2667460,2713016,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,1618212,1665394,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,1609998,1656531,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,1756865,1804219,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002695,NC_002695,2211826,2254161,Escherichia coli O157:H7 str. Sakai,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004307,GCF_000007525.1,1298692,1312867,Bifidobacterium longum NCC2705,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004310,GCF_000007505.1,578085,584879,Brucella suis 1330,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003212,GCF_000195795.1,78505,114250,Listeria innocua Clip11262,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003212,GCF_000195795.1,155931,166661,Listeria innocua Clip11262,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003212,GCF_000195795.1,2407382,2445891,Listeria innocua Clip11262,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003212,GCF_000195795.1,1246563,1294235,Listeria innocua Clip11262,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003212,GCF_000195795.1,2591482,2625807,Listeria innocua Clip11262,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003212,GCF_000195795.1,1713958,1762089,Listeria innocua Clip11262,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003197,NC_003197,2728976,2776816,Salmonella typhimurium LT2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003197,NC_003197,962612,1006517,Salmonella typhimurium LT2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003197,NC_003197,2042050,2059909,Salmonella typhimurium LT2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003197,NC_003197,2844427,2879233,Salmonella typhimurium LT2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003197,NC_003197,2330961,2345217,Salmonella typhimurium LT2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003197,NC_003197,4417918,4438335,Salmonella typhimurium LT2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003197,NC_003197,1098228,1143714,Salmonella typhimurium LT2,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004557,GCF_000007625.1,1138054,1181003,Clostridium tetani E88,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004557,GCF_000007625.1,1663821,1696302,Clostridium tetani E88,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004557,GCF_000007625.1,2242455,2281387,Clostridium tetani E88,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000907,GCF_000027305.1,1559962,1594275,Haemophilus influenzae Rd KW20,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000907,GCF_000027305.1,1499076,1513073,Haemophilus influenzae Rd KW20,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002570,GCF_000011145.1,10970,22161,Bacillus halodurans C-125,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002570,GCF_000011145.1,1381009,1384348,Bacillus halodurans C-125,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002570,GCF_000011145.1,1028696,1039160,Bacillus halodurans C-125,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002570,GCF_000011145.1,3617919,3652122,Bacillus halodurans C-125,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004070,GCF_000007425.1,1313282,1351250,Streptococcus pyogenes MGAS315,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004070,GCF_000007425.1,749213,788176,Streptococcus pyogenes MGAS315,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004070,GCF_000007425.1,1137743,1171867,Streptococcus pyogenes MGAS315,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004070,GCF_000007425.1,1410725,1450458,Streptococcus pyogenes MGAS315,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004070,GCF_000007425.1,977738,1018193,Streptococcus pyogenes MGAS315,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004070,GCF_000007425.1,1230304,1271815,Streptococcus pyogenes MGAS315,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004722,GCF_000007825.1,1805567,1866036,Bacillus cereus ATCC 14579,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004722,GCF_000007825.1,2531805,2565093,Bacillus cereus ATCC 14579,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004722,GCF_000007825.1,2355784,2369311,Bacillus cereus ATCC 14579,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004722,GCF_000007825.1,3660466,3668825,Bacillus cereus ATCC 14579,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002978,GCF_000008025.1,567453,582561,Wolbachia endosymbiont of Drosophila melanogaster,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002978,GCF_000008025.1,572259,584372,Wolbachia endosymbiont of Drosophila melanogaster,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002978,GCF_000008025.1,245829,275225,Wolbachia endosymbiont of Drosophila melanogaster,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002978,GCF_000008025.1,551654,558625,Wolbachia endosymbiont of Drosophila melanogaster,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002978,GCF_000008025.1,623343,634537,Wolbachia endosymbiont of Drosophila melanogaster,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,1879335,1897622,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,3551577,3565707,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,2966382,3015014,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,2668339,2688870,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,2285976,2330172,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,300073,310251,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,1897625,1908911,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,1702185,1725748,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,310756,323112,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,1250521,1295458,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,1330857,1391923,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,1678706,1693737,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,1849488,1879269,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,1909139,1930250,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,892845,930943,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,1730065,1756006,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,1626722,1673485,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,1655548,1696145,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,2743223,2788348,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,2118738,2165694,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,3263064,3270404,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002655,GCF_000006665.1,1521574,1530771,Escherichia coli O157:H7 EDL933,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004606,GCF_000011285.1,1107957,1147543,Streptococcus pyogenes SSI-1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004606,GCF_000011285.1,725017,759141,Streptococcus pyogenes SSI-1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004606,GCF_000011285.1,446427,486160,Streptococcus pyogenes SSI-1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004606,GCF_000011285.1,625070,666334,Streptococcus pyogenes SSI-1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004606,GCF_000011285.1,545636,583603,Streptococcus pyogenes SSI-1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_004606,GCF_000011285.1,878690,919064,Streptococcus pyogenes SSI-1,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002758,GCF_000009665.1,917507,962565,Staphylococcus aureus subsp. aureus Mu50,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002758,GCF_000009665.1,2083515,2126110,Staphylococcus aureus subsp. aureus Mu50,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002758,GCF_000009665.1,2124924,2152937,Staphylococcus aureus subsp. aureus Mu50,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_002758,GCF_000009665.1,1936945,1959408,Staphylococcus aureus subsp. aureus Mu50,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003919,GCF_000007165.1,3105263,3115868,Xanthomonas axonopodis pv. citri str. 306,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_003919,GCF_000007165.1,1211424,1228677,Xanthomonas axonopodis pv. citri str. 306,"Casjens, S. (2003) Molecular microbiology, 49, 277-300."
+NC_000913,NC_000913,4491197,4548442,Escherichia coli K12,Phastest
+NC_004431,GCF_000007445.1,236993,283987,Escherichia coli CFT073,Phastest
+NC_004431,GCF_000007445.1,4961854,4967870,Escherichia coli CFT073,Phastest
+NC_002745,GCF_000009645.1,2054346,2074317,Staphylococcus aureus subsp. aureus N315,Phastest
+NC_002516,GCF_000006765.1,780995,796776,Pseudomonas aeruginosa PAO1,Phastest
+NC_003923,GCF_000011265.1,826277,860029,Staphylococcus aureus subsp. aureus MW2,Phastest
+NC_005126,GCF_000196155.1,1983763,1993171,Photorhabdus luminescens subsp. laumondii TTO1,Phastest
+NC_005126,GCF_000196155.1,5559641,5566514,Photorhabdus luminescens subsp. laumondii TTO1,Phastest
+NC_004578,GCF_000007805.1,4443121,4460297,Pseudomonas syringae pv. tomato str. DC3000,Phastest
+NC_002488,GCF_000006725.1,1779582,1788942,Xylella fastidiosa 9a5c,Phastest
+NC_002488,GCF_000006725.1,2638610,2658009,Xylella fastidiosa 9a5c,Phastest
+NC_002758,GCF_000009665.1,854223,895164,Staphylococcus aureus subsp. aureus Mu50,Phastest
+NC_004431,GCF_000007445.1,244220,265366,Escherichia coli CFT073,Phastest
+NC_002745,GCF_000009645.1,2054346,2074317,Staphylococcus aureus subsp. aureus N315,Phastest
+NC_002516,GCF_000006765.1,780995,796776,Pseudomonas aeruginosa PAO1,Phastest
+NC_003923,GCF_000011265.1,836064,853794,Staphylococcus aureus subsp. aureus MW2,Phastest
+NC_005126,GCF_000196155.1,1983763,1993171,Photorhabdus luminescens subsp. laumondii TTO1,Phastest
+NC_005126,GCF_000196155.1,2035298,2041677,Photorhabdus luminescens subsp. laumondii TTO1,Phastest
+NC_005126,GCF_000196155.1,5559641,5566514,Photorhabdus luminescens subsp. laumondii TTO1,Phastest
+NC_004578,GCF_000007805.1,4442166,4460297,Pseudomonas syringae pv. tomato str. DC3000,Phastest
+NC_003197,NC_003197,1957835,1971770,Salmonella typhimurium LT2,Phastest
+NC_000907,GCF_000027305.1,1636791,1643216,Haemophilus influenzae Rd KW20,Phastest
+NC_002758,GCF_000009665.1,895164,895164,Staphylococcus aureus subsp. aureus Mu50,Phastest
+CP065287,GCA_017190795.1,3676891,3737783,Mycobacteroides abscessus subsp. abscessus strain GD05,DEPHT - M. abscessus
+CP065287,GCA_017190795.1,3164546,3208415,Mycobacteroides abscessus subsp. abscessus strain GD05,DEPHT - M. abscessus
+CP065287,GCA_017190795.1,3759327,3814819,Mycobacteroides abscessus subsp. abscessus strain GD05,DEPHT - M. abscessus
+CP065287,GCA_017190795.1,4832139,4875753,Mycobacteroides abscessus subsp. abscessus strain GD05,DEPHT - M. abscessus
+CP063165,GCA_017183835.1,1082923,1134147,Mycobacteroides abscessus subsp. abscessus strain GD17,DEPHT - M. abscessus
+CP063165,GCA_017183835.1,1785765,1847562,Mycobacteroides abscessus subsp. abscessus strain GD17,DEPHT - M. abscessus
+CP063327,GCA_017183795.1,1737837,1806869,Mycobacteroides abscessus subsp. abscessus strain GD20,DEPHT - M. abscessus
+CP065284,GCA_017190875.1,495576,536351,Mycobacteroides abscessus subsp. abscessus strain GD21,DEPHT - M. abscessus
+CP065284,GCA_017190875.1,1799761,1861746,Mycobacteroides abscessus subsp. abscessus strain GD21,DEPHT - M. abscessus
+CP065284,GCA_017190875.1,3611882,3664756,Mycobacteroides abscessus subsp. abscessus strain GD21,DEPHT - M. abscessus
+CP065284,GCA_017190875.1,2547609,2603216,Mycobacteroides abscessus subsp. abscessus strain GD21,DEPHT - M. abscessus
+CP063324,GCA_017183775.1,1753802,1814377,Mycobacteroides abscessus subsp. abscessus strain GD22,DEPHT - M. abscessus
+CP063320,GCA_017183655.1,1888600,1949296,Mycobacteroides abscessus subsp. abscessus strain GD25,DEPHT - M. abscessus
+CP065279,GCA_017189435.1,1665668,1727971,Mycobacteroides abscessus subsp. abscessus strain GD43A,DEPHT - M. abscessus
+CP065279,GCA_017189435.1,567428,607575,Mycobacteroides abscessus subsp. abscessus strain GD43A,DEPHT - M. abscessus
+CP065279,GCA_017189435.1,4129438,4180188,Mycobacteroides abscessus subsp. abscessus strain GD43A,DEPHT - M. abscessus
+CP065279,GCA_017189435.1,2634522,2688955,Mycobacteroides abscessus subsp. abscessus strain GD43A,DEPHT - M. abscessus
+CP065279,GCA_017189435.1,233517,310058,Mycobacteroides abscessus subsp. abscessus strain GD43A,DEPHT - M. abscessus
+CP065279,GCA_017189435.1,3678803,3745170,Mycobacteroides abscessus subsp. abscessus strain GD43A,DEPHT - M. abscessus
+CP065275,GCA_017189375.1,4001916,4054497,Mycobacteroides abscessus subsp. abscessus strain GD57,DEPHT - M. abscessus
+CP065275,GCA_017189375.1,1753839,1813851,Mycobacteroides abscessus subsp. abscessus strain GD57,DEPHT - M. abscessus
+CP065273,GCA_017190535.1,1673427,1733859,Mycobacteroides abscessus subsp. massiliense strain GD68A,DEPHT - M. abscessus
+CP065265,GCA_017183915.1,4267861,4317169,Mycobacteroides abscessus subsp. bolletii strain GD91,DEPHT - M. abscessus
+CP065265,GCA_017183915.1,1820104,1884312,Mycobacteroides abscessus subsp. bolletii strain GD91,DEPHT - M. abscessus
+CP065265,GCA_017183915.1,4808641,4854248,Mycobacteroides abscessus subsp. bolletii strain GD91,DEPHT - M. abscessus
+CP065265,GCA_017183915.1,3720179,3778677,Mycobacteroides abscessus subsp. bolletii strain GD91,DEPHT - M. abscessus
+CP065265,GCA_017183915.1,1495671,1560018,Mycobacteroides abscessus subsp. bolletii strain GD91,DEPHT - M. abscessus
+CP002907,GCA_000143885.2,1517765,1570547,Gordonia sp. KTR9,DEPHT - Gordonia
+CP027433,GCA_002993285.1,3636841,3694611,Gordonia iterans strain Co17,DEPHT - Gordonia
+CP054691,GCA_013348785.1,2510263,2558526,Gordonia sp. X0973,DEPHT - Gordonia
+CP059694,GCA_014070455.1,1330236,1388720,Gordonia rubripertincta strain SD5,DEPHT - Gordonia
+CP059694,GCA_014070455.1,1832866,1876876,Gordonia rubripertincta strain SD6,DEPHT - Gordonia
+CP059694,GCA_014070455.1,2711613,2762640,Gordonia rubripertincta strain SD7,DEPHT - Gordonia
+CP059694,GCA_014070455.1,3068039,3121700,Gordonia rubripertincta strain SD8,DEPHT - Gordonia
+CP070351,GCA_016919385.1,126,55276,Gordonia sp. PDNC005,DEPHT - Gordonia
+CP070351,GCA_016919385.1,2852387,2899027,Gordonia sp. PDNC006,DEPHT - Gordonia
+CP082859,GCA_019930645.1,128935,211394,Gordonia bronchialis strain FDAARGOS_1476,DEPHT - Gordonia
+CP085974,GCA_020735545.1,2530288,2578791,Gordonia otitidis strain FDAARGOS_1600,DEPHT - Gordonia
+AP012280,GCA_000284555.1,1697680,1740560,Pseudomonas aeruginosa NCGM2.S1,DEPHT - Pseudomonas
+AP012280,GCA_000284555.1,5268555,5306843,Pseudomonas aeruginosa NCGM2.S2,DEPHT - Pseudomonas
+AP012280,GCA_000284555.1,5795310,5831871,Pseudomonas aeruginosa NCGM2.S3,DEPHT - Pseudomonas
+CP000076,GCA_000012265.1,2207060,2240619,Pseudomonas protegens Pf-5,DEPHT - Pseudomonas
+CP000076,GCA_000012265.1,4338335,4395005,Pseudomonas protegens Pf-6,DEPHT - Pseudomonas
+CP006853,GCA_000504045.1,3383998,3436826,Pseudomonas aeruginosa MTB-1,DEPHT - Pseudomonas
+CP006853,GCA_000504045.1,4673919,4724650,Pseudomonas aeruginosa MTB-2,DEPHT - Pseudomonas
+CP006853,GCA_000504045.1,6075273,6125654,Pseudomonas aeruginosa MTB-3,DEPHT - Pseudomonas
+CP015117,GCA_001618925.1,4928971,4971822,Pseudomonas aeruginosa strain ATCC 27853,DEPHT - Pseudomonas
+CP015117,GCA_001618925.1,6099393,6151228,Pseudomonas aeruginosa strain ATCC 27854,DEPHT - Pseudomonas
+NC_011770,GCF_000026645.1,863875,906018,Pseudomonas aeruginosa LESB58,DEPHT - Pseudomonas
+NC_011770,GCF_000026645.1,1433756,1476547,Pseudomonas aeruginosa LESB59,DEPHT - Pseudomonas
+NC_011770,GCF_000026645.1,1684045,1720850,Pseudomonas aeruginosa LESB60,DEPHT - Pseudomonas
+NC_011770,GCF_000026645.1,2690450,2740350,Pseudomonas aeruginosa LESB61,DEPHT - Pseudomonas
+NC_017548,GCF_000226155.1,1453313,1496085,Pseudomonas aeruginosa M18,DEPHT - Pseudomonas
+NC_022808,GCF_000496605.2,1222332,1260747,Pseudomonas aeruginosa PA1,DEPHT - Pseudomonas
+NC_022808,GCF_000496605.2,1445716,1487567,Pseudomonas aeruginosa PA2,DEPHT - Pseudomonas
+NC_022808,GCF_000496605.2,3467282,3502426,Pseudomonas aeruginosa PA3,DEPHT - Pseudomonas
+NC_023066,GCF_000508765.1,1391604,1434426,Pseudomonas aeruginosa LES431,DEPHT - Pseudomonas
+NC_023066,GCF_000508765.1,1641500,1678776,Pseudomonas aeruginosa LES432,DEPHT - Pseudomonas
+NC_023066,GCF_000508765.1,2648068,2698445,Pseudomonas aeruginosa LES433,DEPHT - Pseudomonas
+NC_023149,GCF_000510305.1,1416050,1458699,Pseudomonas aeruginosa SCV20265,DEPHT - Pseudomonas
+NC_023149,GCF_000510305.1,2834441,2873649,Pseudomonas aeruginosa SCV20266,DEPHT - Pseudomonas
+NC_023149,GCF_000510305.1,6223148,6259300,Pseudomonas aeruginosa SCV20267,DEPHT - Pseudomonas
