@@ -7,44 +7,50 @@ Lambda (LAnguage Model Bacteriophage Detection Assessment) is a benchmark for te
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[repository-name]/lambda.git
+git clone https://github.com/leannmlindsey/lambda.git
 cd lambda
 ```
 
-2. Navigate to the data directory:
+2. Download the datasets and upload them and place them into the data directory
+
+3. Navigate to the data directory:
 ```bash
 cd data
 ```
 
-3. Extract the archive files:
+4. Extract the archive files:
 
 ```bash
 tar -xf BED.tar
-tar -xzf BinaryClassification.tar.gz
 tar -xf FASTA.tar
+tar -xf FragmentClassification
 ```
 
 After extraction, your directory structure should look like this:
 ```
 data/
 ├── BED/
-├── BinaryClassification/
 └── FASTA/
+|-- FragmentClassification/
 
-4. Prepare the genomes for processing
+5. Prepare the genomes for processing
 
 ```bash
 cd ..
 mkdir CSV
-python preprocessing/bed_to_csv.py --fasta_dir data/FASTA --fasta_dir BED --output_dir CSV 
+python preprocessing/bed_to_csv.py --fasta_dir data/FASTA --bed_dir BED --output_dir data/CSV 
 ```
-# Task 1: Binary Classification 
+# Fragment Classification 
 
-The directory data/BinaryClassification has three files in it train.csv, test.csv, dev.csv.  Each file has two columns, sequence,label.  
+The directory data/FragmentClassification has three files in it train.csv, test.csv, dev.csv.  Each file has two columns, sequence,label.  
 
 You can substitute these input files in any gLM binary classification pipeline.
 
-# Pretrained Bacterial Models
+Alternately, you can download the dataset from huggingface:
+
+[leannmlindsey/lambda](https://huggingface.co/datasets/leannmlindsey/lambda)
+
+# Instructions to run the Pretrained Bacterial Models
 
 ## Setup Instructions
 
@@ -91,11 +97,11 @@ caduceus/
 
 You can then use these models in the same way described in the Caduceus github, just provide the correct paths to config.json and weights.ckpt.
 
-## Task 2: Prophage Detection 
+## Genome Wide Prophage Detection - Raw Score 
 
 You will find example scripts for processing the test genome CSV files in the inference folder
 
-## Signal Extraction
+## Genome Wide Prophage Detection - Clustered Score
 
 After inference you will need to run the signal extraction 
 
