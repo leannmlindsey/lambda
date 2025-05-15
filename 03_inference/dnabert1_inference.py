@@ -129,17 +129,10 @@ def process_chunk(model, sequences, seq_ids, tokenizer, device, batch_size=8):
     
     return chunk_seq_ids, chunk_predictions
 
-def main(DATASET_PATH,OUTPUT_PATH):
+def main(DATASET_PATH,OUTPUT_PATH,MODEL_CHECKPOINT):
     start_datetime = datetime.now()
     start_time = time.time()
     add_seq_id(DATASET_PATH)
-    # Configuration
-    #MODEL_CHECKPOINT = "/uufs/chpc.utah.edu/common/home/u1323098/sundar-group-space2/PHAGE/MODELS/2nd_TRY_DNABERT2/DNABERT_2/SAVED_CHECKPOINTS_2M/FINAL_PAPER_OUTPUT/length_4k_feb1/checkpoint-14000"
-    #DATASET_PATH = "/uufs/chpc.utah.edu/common/home/u1323098/sundar-group-space2/PHAGE_FINAL_PAPER/DATA/GAUGEYOURPHAGE/segmented_combined_shuffled_phage.csv"
-    MODEL_CHECKPOINT = "/uufs/chpc.utah.edu/common/home/u1323098/sundar-group-space2/PHAGE/MODELS/2nd_TRY_DNABERT2/DNABERT_2/INPHARED_plus_SHUFFLED/saved"
-    #DATASET_PATH = "/scratch/general/nfs1/u1323098/DATASETS/DATASETS/GOLD_STANDARD_TEST_SET/phoenix/ncbi_dataset_fasta/data/CSV/GCF_000011145.1_ASM1114v1_genomic_fixed.rc.csv"
-    #OUTPUT_PATH = "/scratch/general/nfs1/u1323098/DATASETS/DATASETS/GOLD_STANDARD_TEST_SET/phoenix/ncbi_dataset_fasta/data/PREDICTIONS/GCA_017183835.1_ASM1718383v1_genomic.predictions.rc.csv"
-    #OUTPUT_PATH = "/data/lindseylm/PROPHAGE_IDENTIFICATION_LLM/PHOENIX_TEST_DATASET/phoenix/ncbi_dataset_fasta/data/PREDICTIONS/GCA_017183835.1_ASM1718383v1_genomic.rc.predictions.csv"
     print(f"Processing input file: {DATASET_PATH}")
     print(f"Results will be saved to: {OUTPUT_PATH}")
     CHUNK_SIZE = 100  # Reduced chunk size
@@ -243,7 +236,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Process DNA sequences using DNABERT2')
     parser.add_argument('input_file', type=str, help='Path to input CSV file')
     parser.add_argument('output_file', type=str, help='Path to save output CSV file')
+    parser.add_argument('model_ckpt', type=str, help='Model checkpoint path')
     
     args = parser.parse_args()
     
-    main(args.input_file, args.output_file)
+    main(args.input_file, args.output_file, args.model_ckpt)
