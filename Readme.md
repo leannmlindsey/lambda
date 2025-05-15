@@ -32,13 +32,22 @@ data/
 ├── BED/
 └── FASTA/
 |-- FragmentClassification/
+```
 
-5. Prepare the genomes for processing
+5. Extract overlapping segments from the genome using the BED locations and the FASTA files
 
 ```bash
 cd ..
 mkdir CSV
 python preprocessing/bed_to_csv.py --fasta_dir data/FASTA --bed_dir BED --output_dir data/CSV 
+```
+After running the bed_to_csv.py, your directory structure should look like this:
+```
+data/
+├── BED/
+|---CSV/
+└── FASTA/
+|-- FragmentClassification/
 ```
 # Fragment Classification 
 
