@@ -1,0 +1,13 @@
+name: lambda
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9  # You can adjust the Python version as needed
+  - biopython   # For Bio.SeqIO
+  - pandas      # Commonly used for CSV operations
+  - numpy       # Common dependency
+  - pip         # Include pip for additional installations
+  - pip:
+    - pybedtools  # Useful for BED file operations (if needed)
