@@ -6,21 +6,27 @@
 #SBATCH --time=4:00:00
 #SBATCH -o ../watch/%x%j.outerror
 
-mkdir ../watch
+mkdir -p ../watch
 
-# Load Modules 
+# Load Modules
 nvidia-smi
 
-echo "starting DNABERT2 env on conda"
+echo "starting conda env"
 source activate dna
 conda list
 
+# Use environment variables if set, otherwise use defaults
 lambda_dir="/data/lindseylm/gLMs/lambda"
-input_dir=$lambda_dir/data/CSV      # Place the full path to the CSV directory here
-output_dir=$lambda_dir/results/DNABERT1     # Place the full path to the results directory here
-script_dir=$lambda_dir/03_inference     # Place the full path to the inference directory here
-model_ckpt_dir=$lambda_dir/phage_finetuned_model_ckpts/DNABERT1
-mkdir $output_dir
+input_dir=${INPUT_DIR:-$lambda_dir/data/CSV}
+output_dir=${OUTPUT_DIR:-$lambda_dir/results/DNABERT1}
+script_dir=$lambda_dir/03_inference
+model_ckpt_dir=${MODEL_CKPT_DIR:-$lambda_dir/phage_finetuned_model_ckpts/DNABERT1}
+
+mkdir -p $output_dir
+
+echo "Input Dir: $input_dir"
+echo "Output Dir: $output_dir"
+echo "Model Checkpoint: $model_ckpt_dir"
 
 cd $input_dir
 
