@@ -38,8 +38,8 @@ data/
 
 ```bash
 cd ..
-mkdir CSV
-python preprocessing/bed_to_csv.py --fasta_dir data/FASTA --bed_dir BED --output_dir data/CSV 
+mkdir data/CSV
+python 01_preprocessing/bed_to_csv.py --fasta_dir data/FASTA --bed_dir data/BED --output_dir data/CSV 
 ```
 After running the bed_to_csv.py, your directory structure should look like this:
 ```
